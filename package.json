@@ -25,7 +25,6 @@
     "babel-preset-react": "^6.1.2",
     "del": "^2.0.2",
     "gulp": "^3.9.0",
-    "gulp-autoprefixer": "^3.1.0",
     "gulp-concat": "^2.6.0",
     "gulp-connect": "^2.2.0",
     "gulp-livereload": "^3.8.1",
@@ -43,7 +42,13 @@
     "webpack": "^1.12.3"
   },
   "dependencies": {
+    "autoprefixer": "^6.3.6",
+    "bower": "^1.7.9",
+    "exec": "^0.2.1",
+    "gulp-postcss": "^6.1.0",
+    "gulp-sass": "^2.3.1",
     "history": "^1.13.0",
+    "postcss-easings": "^0.3.0",
     "react": "^0.14.2",
     "react-dom": "^0.14.2",
     "react-router": "^1.0.0",
